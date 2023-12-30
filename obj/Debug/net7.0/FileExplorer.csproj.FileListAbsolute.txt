@@ -1,0 +1,14 @@
+p:\slamavit\c#-test\FileExplorer\FileExplorer\bin\Debug\net7.0\FileExplorer.exe
+p:\slamavit\c#-test\FileExplorer\FileExplorer\bin\Debug\net7.0\FileExplorer.deps.json
+p:\slamavit\c#-test\FileExplorer\FileExplorer\bin\Debug\net7.0\FileExplorer.runtimeconfig.json
+p:\slamavit\c#-test\FileExplorer\FileExplorer\bin\Debug\net7.0\FileExplorer.dll
+p:\slamavit\c#-test\FileExplorer\FileExplorer\bin\Debug\net7.0\FileExplorer.pdb
+p:\slamavit\c#-test\FileExplorer\FileExplorer\obj\Debug\net7.0\FileExplorer.GeneratedMSBuildEditorConfig.editorconfig
+p:\slamavit\c#-test\FileExplorer\FileExplorer\obj\Debug\net7.0\FileExplorer.AssemblyInfoInputs.cache
+p:\slamavit\c#-test\FileExplorer\FileExplorer\obj\Debug\net7.0\FileExplorer.AssemblyInfo.cs
+p:\slamavit\c#-test\FileExplorer\FileExplorer\obj\Debug\net7.0\FileExplorer.csproj.CoreCompileInputs.cache
+p:\slamavit\c#-test\FileExplorer\FileExplorer\obj\Debug\net7.0\FileExplorer.dll
+p:\slamavit\c#-test\FileExplorer\FileExplorer\obj\Debug\net7.0\refint\FileExplorer.dll
+p:\slamavit\c#-test\FileExplorer\FileExplorer\obj\Debug\net7.0\FileExplorer.pdb
+p:\slamavit\c#-test\FileExplorer\FileExplorer\obj\Debug\net7.0\FileExplorer.genruntimeconfig.cache
+p:\slamavit\c#-test\FileExplorer\FileExplorer\obj\Debug\net7.0\ref\FileExplorer.dll
